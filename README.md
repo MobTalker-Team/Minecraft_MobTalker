@@ -1,7 +1,5 @@
-Minecraft_MobTalker
-===================
-
-MobTalker
+![LOGO](https://raw.githubusercontent.com/Tomanex/Image-dumping/refs/heads/main/mods/mobtalker/banner_2.png)
+=
 
 This Minecraft mod makes player able to talk with mobs.
 This include script loader for mob responding.
